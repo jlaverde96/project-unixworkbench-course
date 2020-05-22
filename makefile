@@ -1,6 +1,6 @@
 README.md:
 	touch README.md
-	echo "# Reposity-The-Unix-Workbench" >> README.md
+	echo "# Project Unix Workbench Course" >> README.md
 	echo "" >> README.md
 	date +%D >> README.md
 	date +%T >> README.md
